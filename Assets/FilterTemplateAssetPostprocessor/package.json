@@ -1,0 +1,24 @@
+{
+  "name": "jp.shiranui_isuzu.filtertemplateassetpostprocessor",
+  "displayName": "Filter Template Asset Postprocessor",
+  "version": "1.1.0",
+  "unity": "2018.1",
+  "keywords": [
+    "isuzu",
+    "asset",
+    "editor",
+    "tools"
+  ],
+  "author": {
+    "name": "Shiranui_Isuzu",
+    "url": "https://twitter.com/Shiranui_Isuzu_"
+  },
+  "description": "Asset postprocess tool",
+  "dependencies": {},
+  "relatedPackages": {
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://monry.mit-license.org"
+  }
+}

@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: deb2a6e758da4bd09ad055039e619e59, type: 3}
+  m_Name: Single
+  m_EditorClassIdentifier: 
+  TargetPath: 
+  TargetFileNames: []
+  ExcludePath: []
+  fbxImportSettingEnabled: 0
+  ScaleFactor: 1
+  ConvertUnits: 1
+  ImportBlendShapes: 1
+  ImportVisibility: 1
+  ImportCameras: 1
+  ImportLights: 1
+  PreserveHierarchy: 0
+  MeshCompression: 0
+  ReadWriteEnabled: 1
+  OptimizeMesh: 1
+  GenerateColliders: 0
+  KeepQuads: 0
+  WeldVertices: 1
+  IndexFormat: 0
+  LegacyBlendShapeNormals: 0
+  Normals: 0
+  BlendShapeNormals: 1
+  NormalsMode: 4
+  SmoothnessSource: 0
+  SmoothingAngle: 60
+  Tangents: 3
+  SwapUVs: 0
+  GenerateLightmapUVs: 0
+  SecondaryUVHardAngle: 88
+  SecondaryUVPackMargin: 4
+  SecondaryUVAngleDistortion: 8
+  SecondaryUVAreaDistortion: 15
+  AnimationType: 0
+  UnsetJawBone: 0
+  OptimizeGameObject: 0
+  ImportConstraints: 0
+  ImportAnimation: 1
+  ImportMaterials: 1
+  IssRGBAlbedoColor: 1
+  textureImportSettingEnabled: 0
+  TextureType: 0
+  TextureShape: 1
+  IssRGB: 1
+  AlphaSource: 1
+  AlphaIsTransparent: 0
+  SpriteMode: 1
+  PackingTag: 
+  PixelsPerUnit: 100
+  MeshType: 1
+  ExtrudeEdges: 1
+  PivotSelectedValue: 0
+  Pivot: {x: 0.5, y: 0.5}
+  GeneratePhysicsShape: 1
+  LightType: 2
+  Mapping: 0
+  FixupEdgeSeams: 0
+  Channel: 0
+  ConvolutionType: 0
+  CreateFromGrayscale: 0
+  ReadWriteEnabled2: 0
+  StreamingMipMaps: 0
+  MipMapPriority: 0
+  GenerateMipMaps: 1
+  BorderMipMaps: 0
+  MipmapFiltering: 0
+  MipMapsPreserveCoverage: 0
+  AlphaCutoffValue: 0.5
+  FadeoutMipMaps: 0
+  MipMapsFadeStart: 1
+  MipMapsFadeEnd: 3
+  WrapMode: 1
+  UAxis: 2
+  VAxis: 2
+  WAxis: 2
+  FilterMode: 1
+  AnisoLevel: 1
+  MaxSize: 2048
+  ResizeAlgorithm: 0
+  Format: -1
+  Compression: 1
+  UseCrunchCompression: 0
+  CompressorQuality: 50
